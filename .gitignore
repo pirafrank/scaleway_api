@@ -1,0 +1,10 @@
+.Python
+bin
+include
+lib
+__pycache__/
+*.py[cod]
+*$py.class
+build
+.eggs
+eggs
